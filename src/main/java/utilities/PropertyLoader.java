@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.Properties;
 
 public class PropertyLoader {
-    private static final String PROPERTY_FILE ="C:\\Projects\\web-interaction\\src\\main\\java\\resources\\application.properties";
+    private static final String PROPERTY_FILE ="C:\\web\\web-interaction\\src\\main\\java\\resources\\application.properties";
 
     private PropertyLoader(){}
 
